@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b779beff36213bd3f5d38c5e",
+  "owner": "uuasxs",
+  "repo": "page-64f2060c5f094f4ca4f5ea14",
+  "title": "火箭VPN(cnrocket)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "64f2060c5f094f4ca4f5ea14",
+      "a": "火箭VPN(cnrocket)",
+      "b": "机场官网线路发布页",
+      "entity": "火箭VPN(cnrocket)",
+      "brand": "火箭VPN(cnrocket)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d8e5085b3f404c07e217c0689007ad54cf15f16ab7c571ad8afe5ceef4102e88",
+      "content": {
+        "primary_entity": "火箭VPN(cnrocket)",
+        "keyword1": "火箭VPN(cnrocket)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端版本，参考客户端文档完成订阅导入与连接。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备量与流量习惯选好套餐，完成客户端配置即可开始连接。",
+          "AI_CLOSING_TITLE": "开始使用火箭VPN",
+          "AI_DESCRIPTION": "，服务面向需要稳定跨境连接的用户，按设备数量与月流量划分基础版、旗舰版与团队版三档。基础版适合手机加电脑轻度使用，旗舰版提供 IPLC 专线游戏加速与全节点流媒体解锁，团队版支持多设备并行与企业定制路由。选择套餐后可搭配各平台客户端，按设备系统导入订阅配置，在终端完成连接。",
+          "AI_FAQ_ANSWER_1": "先在客户端登录账户，再通过订阅导入功能填入服务方提供的订阅地址即可。不同客户端操作路径略有差异，按客户端文档说明完成配置。",
+          "AI_FAQ_ANSWER_2": "可以。基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。如果设备较多，选择团队版更合适。",
+          "AI_FAQ_ANSWER_3": "月付适合短期体验，年付更划算。三种套餐按年付费分别为 ¥150/年、¥350/年与 ¥850/年，可根据使用时长决定。",
+          "AI_FAQ_ANSWER_4": "基础版含普通线路节点池，旗舰版含 IPLC 专线并对游戏加速优化，团队版使用 VIP 专属高带宽节点并支持企业定制路由。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 7x24 优先工单支持，团队版配备专属客户经理，遇到配置或使用问题可以在客户端内提交工单联系。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅？",
+          "AI_FAQ_QUESTION_2": "可以多台设备同时使用吗？",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "不同套餐的线路有什么差异？",
+          "AI_FAQ_QUESTION_5": "遇到问题怎么获得技术支持？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕使用设备、流量与订阅周期挑选套餐，快速开始连接。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "按手机、电脑、平板等设备数量选择基础版、旗舰版或团队版，避免设备数量超出套餐限制。",
+          "AI_FEATURE_TEXT_2": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按日常视频、浏览与办公流量挑选合适档位。",
+          "AI_FEATURE_TEXT_3": "月付灵活体验，年付更省，三种套餐年付价格分别为 ¥150、¥350 与 ¥850。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TITLE_2": "流量档位清晰",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步开始使用。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "火箭VPN(cnrocket)提供三档跨境加速套餐，按设备数量与月流量划分。基础版适合轻度使用，旗舰版增加 IPLC 专线游戏加速与流媒体解锁，团队版面向多设备与定制路由需求。",
+          "AI_HERO_SUBTITLE": "多档套餐按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐按设备量划分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "年付价格更实惠",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 与 3 台设备，旗舰版 ¥35/月含 300GB、5 台设备与 IPLC 专线，团队版 ¥85/月含 1000GB 与 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版与团队版之间选择合适套餐。",
+          "AI_STEP_TEXT_2": "确认所用设备的系统类型，查看对应客户端是否满足订阅导入与连接要求。",
+          "AI_STEP_TEXT_3": "按照客户端文档提示导入订阅地址，保存配置后即可在终端发起连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "火箭VPN 套餐与客户端"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "8mvrrkv4iv.cn",
+    "host": "8mvrrkv4iv.cn"
+  },
+  "file_hashes": {
+    "index.html": "e5639145d09ae8b1ba53bd31fa6eeb636e75a4b9065c6dd1cbbdb44007de45b5",
+    "sitemap.xml": "728868dd258738332a2cefdbdf02a4abde037f30777aefce38dc9a22d01b54bf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "36a5b1bfbc4a9041f56092805fe0d766c8affe8b9dee21473f19557dde7ff00d",
+    "robots.txt": "0d6a55a5bcdc34ed6e517cc45c0394ce32d8d6a2b472d3264050557ee6351fad",
+    "96391d78cdb3df591e2118be8c53ca7c.txt": "2b9e433c3e3244d868748135ba088ae42b3880ae030a1eb16be7d9db4d92f7b6"
+  },
+  "revision": "796721ef2a2ee150d0a50909a5a7571d2cfc0b9a613d570640ef889e09cd7d43"
+}
